@@ -28,11 +28,13 @@ function App() {
   return (
     <Router>
         <div>
-          <nav>
+          <br/>
             <Link to="/">Home</Link>
+            <br/>
             <Link to="/foo">Foo</Link>
+            <br/>
             <Link to="/bar">Bar</Link>
-          </nav>
+            <br/>
           <Switch>
             <Route exact path="/" component={AsyncHome} />
             <Route exact path="/foo" component={AsyncFoo} />
@@ -42,25 +44,4 @@ function App() {
       </Router>
   );
 }
-
-/*
-function App() {
-  return (
-    <Router>
-        <div>
-          <nav>
-            <Link to="/">Home</Link>
-            <Link to="/foo">Foo</Link>
-            <Link to="/bar">Bar</Link>
-          </nav>
-          <Switch>
-            <Route exact path="/" component={Home} />
-            <Route exact path="/foo" component={Foo} />
-            <Route exact path="/bar" component={Bar} />
-          </Switch>
-        </div>
-      </Router>
-  );
-}
-*/
 export default App;
