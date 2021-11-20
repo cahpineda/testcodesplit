@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Foo.tsx"],"names":[],"mappings":"+GAAA,uBAGe,4BAAO","file":"static/js/4.c36ae684.chunk.js","sourcesContent":["import React from 'react';\r\n\r\n\r\nexport default () => (<h1>Foo Page</h1>);\r\n"],"sourceRoot":""}

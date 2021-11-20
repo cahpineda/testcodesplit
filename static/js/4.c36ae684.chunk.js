@@ -1,0 +1,2 @@
+(this.webpackJsonptestcodesplit=this.webpackJsonptestcodesplit||[]).push([[4],{37:function(t,e,s){"use strict";s.r(e);s(0);var c=s(2);e.default=function(){return Object(c.jsx)("h1",{children:"Foo Page"})}}}]);
+//# sourceMappingURL=4.c36ae684.chunk.js.map

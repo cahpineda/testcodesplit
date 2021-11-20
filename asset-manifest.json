@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/testcodesplit/static/css/main.f87cb03f.chunk.css",
+    "main.js": "/testcodesplit/static/js/main.be1e6271.chunk.js",
+    "main.js.map": "/testcodesplit/static/js/main.be1e6271.chunk.js.map",
+    "runtime-main.js": "/testcodesplit/static/js/runtime-main.b01ab443.js",
+    "runtime-main.js.map": "/testcodesplit/static/js/runtime-main.b01ab443.js.map",
+    "static/js/2.3a1cb4ac.chunk.js": "/testcodesplit/static/js/2.3a1cb4ac.chunk.js",
+    "static/js/2.3a1cb4ac.chunk.js.map": "/testcodesplit/static/js/2.3a1cb4ac.chunk.js.map",
+    "static/js/3.14cf9676.chunk.js": "/testcodesplit/static/js/3.14cf9676.chunk.js",
+    "static/js/3.14cf9676.chunk.js.map": "/testcodesplit/static/js/3.14cf9676.chunk.js.map",
+    "static/js/4.c36ae684.chunk.js": "/testcodesplit/static/js/4.c36ae684.chunk.js",
+    "static/js/4.c36ae684.chunk.js.map": "/testcodesplit/static/js/4.c36ae684.chunk.js.map",
+    "static/js/5.e74ecc20.chunk.js": "/testcodesplit/static/js/5.e74ecc20.chunk.js",
+    "static/js/5.e74ecc20.chunk.js.map": "/testcodesplit/static/js/5.e74ecc20.chunk.js.map",
+    "index.html": "/testcodesplit/index.html",
+    "static/css/main.f87cb03f.chunk.css.map": "/testcodesplit/static/css/main.f87cb03f.chunk.css.map",
+    "static/js/2.3a1cb4ac.chunk.js.LICENSE.txt": "/testcodesplit/static/js/2.3a1cb4ac.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b01ab443.js",
+    "static/js/2.3a1cb4ac.chunk.js",
+    "static/css/main.f87cb03f.chunk.css",
+    "static/js/main.be1e6271.chunk.js"
+  ]
+}

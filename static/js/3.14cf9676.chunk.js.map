@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Bar.tsx"],"names":[],"mappings":"+GAAA,uBAGe,4BAAO","file":"static/js/3.14cf9676.chunk.js","sourcesContent":["import React from 'react';\r\n\r\n\r\nexport default () => (<h1>Bar Page</h1>);"],"sourceRoot":""}

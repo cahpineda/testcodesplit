@@ -1,0 +1,1 @@
+{"version":3,"sources":["components/Home.tsx"],"names":[],"mappings":"+GAAA,uBAGe,4BAAO","file":"static/js/5.e74ecc20.chunk.js","sourcesContent":["import React from 'react';\r\n\r\n\r\nexport default () => (<h1>Home Page</h1>);\r\n"],"sourceRoot":""}
